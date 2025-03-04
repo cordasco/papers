@@ -1,4 +1,4 @@
-Journals
+# Journals
 
 1.  Conson M., Zappullo I., Cordasco G., Trojano L., Raimo G., Cecere R., Baiano C., Lauro A., Esposito A. _"Altercentrism in perspective-taking: The role of humanisation in embodying the agent’s point of view"._ In Quarterly Journal of Experimental Psychology, ISSN:17470218, 2024. [\[DOI\]](http://doi.org/10.1177/17470218241300252) [\[Scopus\]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85210759071&origin=resultslist&sort=plf-f&src=s&sot=aut&sdt=a&s=AU-ID%28%22Cordasco%2C+Gennaro%2257193482076%29&sessionSearchId=513f1ebb119089b6d0a13e0f85be9323&relpos=12) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2024_197.bib)
     
@@ -131,7 +131,7 @@ Journals
 65.  Cordasco G., Malewic G., Rosenberg A.L. _"Advances in IC-Scheduling Theory: Scheduling expansive and reductive DAGs and scheduling DAGs via duality"._ In IEEE Transactions on Parallel and Distributed Systems, 18(11), pages 1607-1617, ISSN:10459219, 2007. [\[DOI\]](http://doi.org/10.1109/TPDS.2007.1067) [\[Scopus\]](https://www.scopus.com/inward/record.uri?eid=2-s2.0-34248162626&doi=10.1109%2fTPDS.2007.1067&partnerID=40&md5=e1c29364b514a191673f2c027183dc07) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2007_14.bib)
     
 
-Editorials:
+# Editorials:
 
 1.  Cordasco G., Yang M. _"Message from the Program Chairs"._ In Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI, 2023, pages xxv-xxvi, ISSN:10823409, 2023. [\[DOI\]](http://doi.org/10.1109/ICTAI59109.2023.00006) [\[Scopus\]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85182558312&origin=resultslist) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2023_188.bib)
     
@@ -144,7 +144,7 @@ Editorials:
 5.  Scarano V., Cordasco G., De Chiara R., Erra U. _"First workshop on parallel and distributed agent-based simulations (PADABS 2013)"._ In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 8374 LNCS, pages 488-489, ISSN:3029743, 2014.[\[Scopus\]](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901318123&partnerID=40&md5=18b59bb6b47430f5964fc78b0b1b6913) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2014_62.bib)
     
 
-Refereed Conference Proceedings:
+# Refereed Conference Proceedings:
 
 1.  D’Iorio A., Di Benedetto G. L., Sorrentino A., Cavallo F., Di Laora L., Santangelo G., Cordasco G., Esposito A. _"Development of Tasks for SoftBank Pepper to Prevent the Onset of Mild Cognitive Impairment in Older Adults"._ In 13th Italian Forum of Ambient Assisted Living, ForItAAL 2024, ISSN:2195271X, 2024. [\[DOI\]](http://doi.org/10.1007/978-3-031-77318-1_9) [\[Scopus\]](https://www.scopus.com/record/display.uri?origin=recordpage&eid=2-s2.0-85214096120&noHighlight=false&sort=plf-f&src=s&sid=513f1ebb119089b6d0a13e0f85be9323&sot=aut&sdt=a&sl=37&s=AU-ID%28%22Cordasco%2c+Gennaro%2257193482076%29&relpos=11) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2024_199.bib)
     
@@ -393,7 +393,7 @@ Refereed Conference Proceedings:
 123.  Cordasco G., Negro A., Scarano V., Rosenberg A.L. _"c-Perfect Hashing Schemes for Arrays, with Applications to Parallel Memories"._ In Proc. of 5th Workshop on Distributed Data and Structures (WDAS), Thessaloniki (Greece), 2004.[\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2004_1.bib)
     
 
-Book Chapters:
+# Book Chapters:
 
 1.  Esposito A., Vinciarelli A. , Cordasco G. _"A Research Agenda for Dementia Care: Prevention, Risk Mitigation and Personalized Interventions"._ In Learning and Analytics in Intelligent Systems, 28, pages 33-42, 2022. [\[DOI\]](http://doi.org/10.1007/978-3-030-87132-1_3) [\[Scopus\]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85179868531&origin=resultslist&sort=plf-f&src=s&sid=1c20d6f53f44de8cfbe79ded643a2ef2&sot=b&sdt=b&s=TITLE-ABS-KEY%28A+Research+Agenda+for+Dementia+Care%3A+Prevention%2C+Risk+Mitigation+and+Personalized+Interventions%29&sl=110&sessionSearchId=1c20d6f53f44de8cfbe79ded643a2ef2&relpos=0) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2022_186.bib)
     
