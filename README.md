@@ -1,6 +1,7 @@
 # Journals
 
 1.  Conson M., Zappullo I., Cordasco G., Trojano L., Raimo G., Cecere R., Baiano C., Lauro A., Esposito A. _"Altercentrism in perspective-taking: The role of humanisation in embodying the agent’s point of view"._ In Quarterly Journal of Experimental Psychology, ISSN:17470218, 2024. [\[DOI\]](http://doi.org/10.1177/17470218241300252) [\[Scopus\]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85210759071&origin=resultslist&sort=plf-f&src=s&sot=aut&sdt=a&s=AU-ID%28%22Cordasco%2C+Gennaro%2257193482076%29&sessionSearchId=513f1ebb119089b6d0a13e0f85be9323&relpos=12) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2024_197.bib)
+[\[pdf\]](https://github.com/cordasco/papers/blob/master/papers/paper195.pdf?raw=true)
     
 2.  Prinzi F., Barbiero P., Greco C., Amorese T., Cordasco G., Liò P.,Vitabile S., Esposito A. _"Using AI explainable models and handwriting/drawing tasks for psychological well-being"._ In Information Systems, 127, ISSN:3064379, 2025. [\[DOI\]](http://doi.org/10.1016/j.is.2024.102465) [\[Scopus\]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85205419865&origin=resultslist) [\[bib\]](http://becogsys.ddns.net:9080/cordasco/bibs/Cordasco2025_195.bib)
     
